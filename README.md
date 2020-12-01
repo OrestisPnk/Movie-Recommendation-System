@@ -1,4 +1,4 @@
 # Movie Recommendation System
-Taking advantage of collaborative filtering, as well as Pearson's r correlation coefficient and k-shortest neighbors, a movie recommendation system was created, based on MovieLens dataset(ml-100k).
-
-Platform: Google Colab
+In order to take advantage of collaborative filtering, Pearson's correlation coefficient was exploited so as to compute k-nearest neighbors of a user. The outcome was a movie recommendation system. based on .
+##Dataset:MovieLens dataset(ml-100k)
+##Platform: Google Colab
