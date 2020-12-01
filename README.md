@@ -1,5 +1,5 @@
-# Movie Recommendation System Genetic Algorithms
-In order to implement a user-based(collaborative filtering) movie reccomendation system, we took advantage of Pearson's correlation coefficient, so as to compute k-nearest neighbors for a user. Then, through genetic algorithms, a movie recommendation system was implemented.
+# Movie Recommendation System (Genetic Algorithms)
+In order to take advantage of collaborative filtering and implement a movie reccomendation system, we used Pearson's correlation coefficient, so as to compute k-nearest neighbors for a specific user. Eventually, through genetic operators, such as...., we could provide a list of movies for this specific user.
 
 -  Dataset: MovieLens(ml-100k)
 -  Platform: Google Colab
